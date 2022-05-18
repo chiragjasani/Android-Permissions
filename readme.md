@@ -13,13 +13,13 @@ Easily handle runtime permissions in android.
  * Quick support.
  * Open source and fully customizable.
 
-Dependency:
+<!-- Dependency:
 -----------
 
 **Gradle (Jcenter)**
 ```
 implementation 'com.chiragjasani.android:permissions:1.0'
-```
+``` -->
 
 Usage:
 ------
