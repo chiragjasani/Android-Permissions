@@ -27,7 +27,7 @@ android {
 
     defaultConfig {
         //noinspection MinSdkTooLow
-        minSdkVersion 19
+        minSdkVersion 14
         targetSdkVersion 32
     }
 }

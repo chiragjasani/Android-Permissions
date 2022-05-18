@@ -5,7 +5,7 @@ android {
 
     defaultConfig {
         applicationId "com.chiragjasani.permissions.sample"
-        minSdkVersion 19
+        minSdkVersion 14
         targetSdkVersion 32
         versionCode 1
         versionName "1.0"
@@ -15,6 +15,6 @@ android {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
 
-     implementation project(':permissions')
-//    implementation 'com.chiragjasani.android:permissions:3.8'
+//     implementation project(':permissions')
+    implementation 'com.chiragjasani.android:permissions:1.0'
 }

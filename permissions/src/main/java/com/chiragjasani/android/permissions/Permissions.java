@@ -15,7 +15,7 @@ import java.util.Set;
 /**
  * <pre>
  * Helper class for handling runtime permissions.
- * Created on 6/11/2017 on 9:32 PM
+ * Created on 18/05/2022 on 4:17 PM
  * </pre>
  *
  * @author Jasani Chirag
