@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Permissions-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Permissions-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/permissions/Android-Permissions-master.permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/permissions/Android-Permissions-master.permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Android-Permissions-master.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Android-Permissions-master.sample.iml" />
+    </modules>
+  </component>
+</project>

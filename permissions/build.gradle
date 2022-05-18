@@ -1,0 +1,43 @@
+apply plugin: 'com.android.library'
+
+ext {
+    bintrayRepo = 'android'
+    bintrayName = 'permissions'
+
+    publishedGroupId = 'com.chiragjasani.android'
+    libraryName = 'permissions'
+    artifact = 'permissions'
+
+    libraryDescription = 'Library for easy handling of runtime permissions in android.'
+
+    siteUrl = 'https://github.com/chiragjasani/Android-Permissions'
+    gitUrl = 'https://github.com/chiragjasani/Android-Permissions.git'
+
+    libraryVersion = '3.8'
+
+    developerId = 'chiragjasani'
+    developerName = 'Jasani Chirag'
+    developerEmail = 'jasani.chirag105@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
+android {
+    compileSdkVersion 32
+
+    defaultConfig {
+        //noinspection MinSdkTooLow
+        minSdkVersion 19
+        targetSdkVersion 32
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+// Uncomment following two lines only during publishing.
+// apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+// apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'
