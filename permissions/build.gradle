@@ -13,8 +13,6 @@ ext {
     siteUrl = 'https://github.com/chiragjasani/Android-Permissions'
     gitUrl = 'https://github.com/chiragjasani/Android-Permissions.git'
 
-    libraryVersion = '3.8'
-
     developerId = 'chiragjasani'
     developerName = 'Jasani Chirag'
     developerEmail = 'jasani.chirag105@gmail.com'

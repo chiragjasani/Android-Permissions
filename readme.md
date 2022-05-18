@@ -18,7 +18,7 @@ Dependency:
 
 **Gradle (Jcenter)**
 ```
-implementation 'com.chiragjasani.android:permissions:3.8'
+implementation 'com.chiragjasani.android:permissions:1.0'
 ```
 
 Usage:
